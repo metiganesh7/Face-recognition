@@ -28,8 +28,10 @@ OpenCV is used for real-time computer vision tasks such as face detection, image
 Built on top of dlib, this library simplifies face recognition by providing pre-trained models. It can detect faces, generate facial feature encodings, and compare faces with high accuracy.
 
 **4 . NumPy**
-
 NumPy supports mathematical operations on large arrays and matrices, which is useful when processing image data and face encodings efficiently.
+
+
+![image](https://github.com/user-attachments/assets/6f7fdb6b-1c7e-4e0b-8a40-a917013c37bd)
 
 **5 . MySQL / SQLite (Database Management System)**
 The SQL database stores attendance records securely, including name, date, and time.

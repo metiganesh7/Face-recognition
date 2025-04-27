@@ -54,8 +54,11 @@ Used to capture the current date and time during attendance marking automaticall
 
 
 **Key Features of Face Recognition Attendance System:**
-
 "Our system provides an efficient, real-time, and secure method for marking attendance using facial recognition technology, with automatic database recording, multi-user support, and offline functionality."
+
+
+
+
 
 1 . Real-Time Face Detection and Recognition
 The system captures live video from a webcam and instantly detects and recognizes faces within the frame.
